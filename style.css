@@ -103,7 +103,7 @@ main {
     grid-template-rows: 260px 180px;
     gap: 30px;
     margin: 0 auto;
-    /*position: relative;*/
+    position: relative;
 }
 
 .top__cards img {
@@ -380,7 +380,6 @@ main {
         align-items: center;
         grid-row-start: 4;
         grid-column: span 1;
-        position: relative;
         overflow: hidden;
     }
 
